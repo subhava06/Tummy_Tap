@@ -4,15 +4,26 @@ import 'package:meals/screens/meals.dart';
 import 'package:meals/widgets/category_grid_item.dart';
 
 import '../models/category.dart';
+import '../models/meal.dart';
+
 class CategoriesScreen extends StatelessWidget {
-  const CategoriesScreen({super.key});
+  const CategoriesScreen({
+    super.key,
+    required this.onToggleFavorite,
+    required this.availableMeals,
+  });
+
+final void Function(Meal meal) onToggleFavorite;
+final List<Meal> availableMeals;
 
   //method to call when we press a category
   void _selectCategory(BuildContext context, Category category) {
-   final filteredMeals = dummyMeals.where((meal) => meal.categories.contains(category.id)).toList();
+   final filteredMeals = availableMeals
+       .where((meal) => meal.categories.contains(category.id)).toList();
     Navigator.of(context).
     push(MaterialPageRoute(
         builder: (ctx)=>MealsScreen(
+            onToggleFavorite: onToggleFavorite,
             title: category.title,
             meals: filteredMeals,
         ),
