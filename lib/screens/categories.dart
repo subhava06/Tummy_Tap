@@ -9,11 +9,9 @@ import '../models/meal.dart';
 class CategoriesScreen extends StatelessWidget {
   const CategoriesScreen({
     super.key,
-    required this.onToggleFavorite,
     required this.availableMeals,
   });
 
-final void Function(Meal meal) onToggleFavorite;
 final List<Meal> availableMeals;
 
   //method to call when we press a category
@@ -23,7 +21,6 @@ final List<Meal> availableMeals;
     Navigator.of(context).
     push(MaterialPageRoute(
         builder: (ctx)=>MealsScreen(
-            onToggleFavorite: onToggleFavorite,
             title: category.title,
             meals: filteredMeals,
         ),
