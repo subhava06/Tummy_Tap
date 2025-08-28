@@ -2,7 +2,7 @@
 
 A beautiful and feature-rich recipe app built with Flutter.
 
-<p align="center"> <img src="https://github.com/subhava06/Tummy_Tap/blob/f0ba712cb590413e95d68334c29a1d18f0c9db84/ss1.jpg?raw=true" alt="App Banner" width="800" height="200"/> </p>
+
 🔥 Why this app?
 
 This app makes finding, saving, and filtering recipes simple, fast, and fun! With a clean UI and smooth performance, you can:
