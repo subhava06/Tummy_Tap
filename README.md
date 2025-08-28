@@ -2,7 +2,7 @@
 
 A beautiful and feature-rich recipe app built with Flutter.
 
-<p align="center"> <img src="https://github.com/your-username/your-repo/blob/main/screenshots/banner.png?raw=true" alt="App Banner" width="800"/> </p>
+<p align="center"> <img src="https://github.com/subhava06/Tummy_Tap/blob/f0ba712cb590413e95d68334c29a1d18f0c9db84/ss1.jpg?raw=true" alt="App Banner" width="800"/> </p>
 🔥 Why this app?
 
 This app makes finding, saving, and filtering recipes simple, fast, and fun! With a clean UI and smooth performance, you can:
@@ -13,16 +13,22 @@ This app makes finding, saving, and filtering recipes simple, fast, and fun! Wit
 ✔ Apply custom Filters (Vegan, Gluten-Free, etc.)
 
 🖼 Screenshots
-<p align="center"> <img src="https://github.com/your-username/your-repo/blob/main/screenshots/ss2.jpg?raw=true" width="200" style="margin-right:10px;"/> <img src="https://github.com/your-username/your-repo/blob/main/screenshots/ss3.jpg?raw=true" width="200" style="margin-right:10px;"/> <img src="https://github.com/your-username/your-repo/blob/main/screenshots/ss5.jpg?raw=true" width="200" style="margin-right:10px;"/> <img src="https://github.com/your-username/your-repo/blob/main/screenshots/ss6.jpg?raw=true" width="200"/> </p>
+![Splash Screen](https://github.com/subhava06/Tummy_Tap/blob/f0ba712cb590413e95d68334c29a1d18f0c9db84/ss1.jpg?raw=true)
+![Categories Screen](https://github.com/subhava06/Tummy_Tap/blob/f0ba712cb590413e95d68334c29a1d18f0c9db84/ss2.jpg?raw=true) 
+![Favorites Screen](https://github.com/subhava06/Tummy_Tap/blob/f0ba712cb590413e95d68334c29a1d18f0c9db84/ss3.jpg?raw=true) 
+![SnackBar Screen](https://github.com/subhava06/Tummy_Tap/blob/f0ba712cb590413e95d68334c29a1d18f0c9db84/ss4.jpg?raw=true) 
+![Filters Screen](https://github.com/subhava06/Tummy_Tap/blob/f0ba712cb590413e95d68334c29a1d18f0c9db84/ss5.jpg?raw=true)
+![Meal Details Screen](https://github.com/subhava06/Tummy_Tap/blob/f0ba712cb590413e95d68334c29a1d18f0c9db84/ss6.jpg?raw=true)
+
 🛠 Tech Stack
 
-Flutter – Cross-platform UI
+🎯 Flutter – Cross-platform UI
 
-Dart – Language powering the app
+🐦 Dart – Language powering the app
 
-Provider – State management
+🔄 Provider – State management
 
-Material Design – Sleek & modern UI
+🎨 Material Design – Sleek & modern UI
 
 ⚡ Getting Started
 
