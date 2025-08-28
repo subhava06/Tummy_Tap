@@ -3,13 +3,13 @@
 A Flutter-based favorite meals app that helps users explore, filter, and manage their favorite meals easily. Built with Flutter, Provider, and Riverpod, this app provides a smooth UI with implicit and explicit animations, ensuring a great user experience.
 
 📸 Screenshots
-Splash Screen	Categories Screen	Favorites Screen
+		
 
-	WhatsApp Image 2025-08-28 at 10.56.48_3844ac20   WhatsApp Image 2025-08-28 at 10.56.48_87a17342   WhatsApp Image 2025-08-28 at 10.56.48_f6a99f2f
+	![Splash Screen](WhatsApp Image 2025-08-28 at 10.56.48_3844ac20)  ![Categories Screen](WhatsApp Image 2025-08-28 at 10.56.48_87a17342)   ![Favorites Screen](WhatsApp Image 2025-08-28 at 10.56.48_f6a99f2f)
 	
-SnackBar Screen Filters Screen	Meal Details Screen
+ 	
 
-	WhatsApp Image 2025-08-28 at 10.56.49_8068ee6b  WhatsApp Image 2025-08-28 at 10.56.49_9e6e9e7a  WhatsApp Image 2025-08-28 at 10.56.49_0c15812b
+	![SnackBar Screen](WhatsApp Image 2025-08-28 at 10.56.49_8068ee6b)  ![Filters Screen](WhatsApp Image 2025-08-28 at 10.56.49_9e6e9e7a)  ![Meal Details Screen](WhatsApp Image 2025-08-28 at 10.56.49_0c15812b)
 
 
 ✅ Features
@@ -70,7 +70,6 @@ Animations: Implicit & Explicit Animations
 
 Architecture: Clean architecture with modular design
 
-📂 Project Structure
 lib/
 ├── main.dart                # Entry point of the app
 ├── screens/                 # All screen UI files (Categories, Favorites, Details)
@@ -78,6 +77,7 @@ lib/
 ├── providers/               # State management (Provider & Riverpod)
 ├── models/                  # Data models for meals and categories
 └── dummy_data/              # Sample data for meals and categories
+
 
 ▶️ Getting Started
 Prerequisites
