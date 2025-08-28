@@ -1,133 +1,67 @@
 🍽️ Tummy Tap
 
-A Flutter-based favorite meals app that helps users explore, filter, and manage their favorite meals easily. Built with Flutter, Provider, and Riverpod, this app provides a smooth UI with implicit and explicit animations, ensuring a great user experience.
+A beautiful and feature-rich recipe app built with Flutter.
 
-📸 Screenshots
-		
+<p align="center"> <img src="https://github.com/your-username/your-repo/blob/main/screenshots/banner.png?raw=true" alt="App Banner" width="800"/> </p>
+🔥 Why this app?
 
-	![Splash Screen](WhatsApp Image 2025-08-28 at 10.56.48_3844ac20)  ![Categories Screen](WhatsApp Image 2025-08-28 at 10.56.48_87a17342)   ![Favorites Screen](WhatsApp Image 2025-08-28 at 10.56.48_f6a99f2f)
-	
- 	
+This app makes finding, saving, and filtering recipes simple, fast, and fun! With a clean UI and smooth performance, you can:
 
-	![SnackBar Screen](WhatsApp Image 2025-08-28 at 10.56.49_8068ee6b)  ![Filters Screen](WhatsApp Image 2025-08-28 at 10.56.49_9e6e9e7a)  ![Meal Details Screen](WhatsApp Image 2025-08-28 at 10.56.49_0c15812b)
+✔ Browse by categories
+✔ View detailed recipes
+✔ Add recipes to Favorites
+✔ Apply custom Filters (Vegan, Gluten-Free, etc.)
 
+🖼 Screenshots
+<p align="center"> <img src="https://github.com/your-username/your-repo/blob/main/screenshots/ss2.jpg?raw=true" width="200" style="margin-right:10px;"/> <img src="https://github.com/your-username/your-repo/blob/main/screenshots/ss3.jpg?raw=true" width="200" style="margin-right:10px;"/> <img src="https://github.com/your-username/your-repo/blob/main/screenshots/ss5.jpg?raw=true" width="200" style="margin-right:10px;"/> <img src="https://github.com/your-username/your-repo/blob/main/screenshots/ss6.jpg?raw=true" width="200"/> </p>
+🛠 Tech Stack
 
-✅ Features
+Flutter – Cross-platform UI
 
-Splash Screen – A welcoming animation before the app starts.
+Dart – Language powering the app
 
-Categories Screen – Browse meals by categories like:
+Provider – State management
 
-Italian
+Material Design – Sleek & modern UI
 
-Quick & Easy
+⚡ Getting Started
 
-Hamburgers
+# Clone the repo
+git clone https://github.com/your-username/your-repo.git
 
-German
+# Navigate to the folder
+cd your-repo
 
-Light & Lovely
-
-Exotic
-
-Breakfast
-
-Asian
-
-French
-
-Summer
-
-Favorites Screen – Save and manage your favorite meals.
-
-Meal Details Screen – View detailed ingredients and preparation steps.
-
-Filters – Customize your meal preferences with:
-
-✅ Gluten-free
-
-✅ Lactose-free
-
-✅ Vegetarian
-
-✅ Vegan
-
-Add to Favorites – Mark any meal as your favorite with a single tap.
-
-Animations – Smooth implicit and explicit animations for a delightful UI experience.
-
-State Management – Implemented using Provider and Riverpod for clean and scalable state management.
-
-🛠️ Tech Stack
-
-Framework: Flutter
-
-Language: Dart
-
-State Management: Provider & Riverpod
-
-Animations: Implicit & Explicit Animations
-
-Architecture: Clean architecture with modular design
-
-lib/
-├── main.dart                # Entry point of the app
-├── screens/                 # All screen UI files (Categories, Favorites, Details)
-├── widgets/                 # Reusable widgets
-├── providers/               # State management (Provider & Riverpod)
-├── models/                  # Data models for meals and categories
-└── dummy_data/              # Sample data for meals and categories
-
-
-▶️ Getting Started
-Prerequisites
-
-Install Flutter SDK
-
-Install Dart
-
-Install any IDE like VS Code or Android Studio
-
-Installation
-
-Clone this repository:
-
-git clone https://github.com/subhava06/Tummy_Tap.git
-
-
-Navigate to the project directory:
-
-cd Tummy_Tap
-
-
-Install dependencies:
-
+# Install dependencies
 flutter pub get
 
-
-Run the app:
-
+# Run the app
 flutter run
 
-🎨 UI Highlights
 
-Modern UI with a clean dark theme
+🌟 Features
 
-Responsive design for different screen sizes
+✅ Browse recipes by category
 
-Intuitive navigation drawer for quick access to filters and meals
+✅ Detailed instructions for each dish
 
-📱 App Flow
+✅ Favorites for quick access
 
-Splash Screen ➡ Categories Screen
+✅ Filters to personalize your experience
 
-Select a category ➡ Browse meals
+🌙 Dark Mode Preview
 
-Tap a meal ➡ View details
+🤝 Contribute
 
-Mark as favorite or go back to explore more
+Found a bug? Have a feature request?
 
-Use Filters to customize your meal preferences
+Open an Issue
+
+Submit a Pull Request
+
+📜 License
+
+Licensed under MIT – Read License
 
 👨‍💻 Author
 
