@@ -2,7 +2,7 @@
 
 A beautiful and feature-rich recipe app built with Flutter.
 
-<p align="center"> <img src="https://github.com/subhava06/Tummy_Tap/blob/f0ba712cb590413e95d68334c29a1d18f0c9db84/ss1.jpg?raw=true" alt="App Banner" width="800"/> </p>
+<p align="center"> <img src="https://github.com/subhava06/Tummy_Tap/blob/f0ba712cb590413e95d68334c29a1d18f0c9db84/ss1.jpg?raw=true" alt="App Banner" width="800" height="200"/> </p>
 🔥 Why this app?
 
 This app makes finding, saving, and filtering recipes simple, fast, and fun! With a clean UI and smooth performance, you can:
@@ -13,12 +13,7 @@ This app makes finding, saving, and filtering recipes simple, fast, and fun! Wit
 ✔ Apply custom Filters (Vegan, Gluten-Free, etc.)
 
 🖼 Screenshots
-![Splash Screen](https://github.com/subhava06/Tummy_Tap/blob/f0ba712cb590413e95d68334c29a1d18f0c9db84/ss1.jpg?raw=true)
-![Categories Screen](https://github.com/subhava06/Tummy_Tap/blob/f0ba712cb590413e95d68334c29a1d18f0c9db84/ss2.jpg?raw=true) 
-![Favorites Screen](https://github.com/subhava06/Tummy_Tap/blob/f0ba712cb590413e95d68334c29a1d18f0c9db84/ss3.jpg?raw=true) 
-![SnackBar Screen](https://github.com/subhava06/Tummy_Tap/blob/f0ba712cb590413e95d68334c29a1d18f0c9db84/ss4.jpg?raw=true) 
-![Filters Screen](https://github.com/subhava06/Tummy_Tap/blob/f0ba712cb590413e95d68334c29a1d18f0c9db84/ss5.jpg?raw=true)
-![Meal Details Screen](https://github.com/subhava06/Tummy_Tap/blob/f0ba712cb590413e95d68334c29a1d18f0c9db84/ss6.jpg?raw=true)
+<p align="center"> <img src="https://github.com/subhava06/Tummy_Tap/blob/f0ba712cb590413e95d68334c29a1d18f0c9db84/ss1.jpg?raw=true" width="30%" style="margin: 10px;" /> <img src="https://github.com/subhava06/Tummy_Tap/blob/f0ba712cb590413e95d68334c29a1d18f0c9db84/ss2.jpg?raw=true" width="30%" style="margin: 10px;" /> <img src="https://github.com/subhava06/Tummy_Tap/blob/f0ba712cb590413e95d68334c29a1d18f0c9db84/ss3.jpg?raw=true" width="30%" style="margin: 10px;" /> </p> <p align="center"> <img src="https://github.com/subhava06/Tummy_Tap/blob/f0ba712cb590413e95d68334c29a1d18f0c9db84/ss4.jpg?raw=true" width="30%" style="margin: 10px;" /> <img src="https://github.com/subhava06/Tummy_Tap/blob/f0ba712cb590413e95d68334c29a1d18f0c9db84/ss5.jpg?raw=true" width="30%" style="margin: 10px;" /> <img src="https://github.com/subhava06/Tummy_Tap/blob/f0ba712cb590413e95d68334c29a1d18f0c9db84/ss6.jpg?raw=true" width="30%" style="margin: 10px;" /> </p>
 
 🛠 Tech Stack
 
@@ -72,7 +67,8 @@ Licensed under MIT – Read License
 👨‍💻 Author
 
 Subhava Ojha
-GitHub Profile
+GitHub Profile : https://github.com/subhava06
+LinkedIn Profile: www.linkedin.com/in/subhava-ojha
 
 ⭐ Show Your Support
 
