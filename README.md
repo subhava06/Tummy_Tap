@@ -69,6 +69,7 @@ Licensed under MIT – Read License
 Subhava Ojha
 GitHub Profile : https://github.com/subhava06
 LinkedIn Profile: www.linkedin.com/in/subhava-ojha
+Gmail: subhavaojha2003@gmail.com
 
 ⭐ Show Your Support
 
