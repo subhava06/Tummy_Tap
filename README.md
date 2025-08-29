@@ -3,7 +3,7 @@
 A beautiful and feature-rich recipe app built with Flutter.
 
 
-🔥 Why this app?
+ Why this app?
 
 This app makes finding, saving, and filtering recipes simple, fast, and fun! With a clean UI and smooth performance, you can:
 
