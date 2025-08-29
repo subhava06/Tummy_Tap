@@ -21,7 +21,7 @@ This app makes finding, saving, and filtering recipes simple, fast, and fun! Wit
 
 🐦 Dart – Language powering the app
 
-🔄 Provider – State management
+🔄 Provider and Riverpod– State management
 
 🎨 Material Design – Sleek & modern UI
 
