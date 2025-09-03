@@ -13,7 +13,14 @@ This app makes finding, saving, and filtering recipes simple, fast, and fun! Wit
 ✔ Apply custom Filters (Vegan, Gluten-Free, etc.)
 
 🖼 Screenshots
-<p align="center"> <img src="https://github.com/subhava06/Tummy_Tap/blob/f0ba712cb590413e95d68334c29a1d18f0c9db84/ss1.jpg?raw=true" width="30%" style="margin: 10px;" /> <img src="https://github.com/subhava06/Tummy_Tap/blob/f0ba712cb590413e95d68334c29a1d18f0c9db84/ss2.jpg?raw=true" width="30%" style="margin: 10px;" /> <img src="https://github.com/subhava06/Tummy_Tap/blob/f0ba712cb590413e95d68334c29a1d18f0c9db84/ss3.jpg?raw=true" width="30%" style="margin: 10px;" /> </p> <p align="center"> <img src="https://github.com/subhava06/Tummy_Tap/blob/f0ba712cb590413e95d68334c29a1d18f0c9db84/ss4.jpg?raw=true" width="30%" style="margin: 10px;" /> <img src="https://github.com/subhava06/Tummy_Tap/blob/f0ba712cb590413e95d68334c29a1d18f0c9db84/ss5.jpg?raw=true" width="30%" style="margin: 10px;" /> <img src="https://github.com/subhava06/Tummy_Tap/blob/f0ba712cb590413e95d68334c29a1d18f0c9db84/ss6.jpg?raw=true" width="30%" style="margin: 10px;" /> </p>
+<p align="center"> 
+ <img src="https://github.com/subhava06/Tummy_Tap/blob/f0ba712cb590413e95d68334c29a1d18f0c9db84/ss1.jpg?raw=true" width="30%" style="margin: 10px;" /> 
+ <img src="https://github.com/subhava06/Tummy_Tap/blob/f0ba712cb590413e95d68334c29a1d18f0c9db84/ss2.jpg?raw=true" width="30%" style="margin: 10px;" /> 
+ <img src="https://github.com/subhava06/Tummy_Tap/blob/f0ba712cb590413e95d68334c29a1d18f0c9db84/ss3.jpg?raw=true" width="30%" style="margin: 10px;" /> </p>
+ <p align="center"> <img src="https://github.com/subhava06/Tummy_Tap/blob/f0ba712cb590413e95d68334c29a1d18f0c9db84/ss4.jpg?raw=true" width="30%" style="margin: 10px;" /> 
+  <img src="https://github.com/subhava06/Tummy_Tap/blob/f0ba712cb590413e95d68334c29a1d18f0c9db84/ss5.jpg?raw=true" width="30%" style="margin: 10px;" /> 
+  <img src="https://github.com/subhava06/Tummy_Tap/blob/f0ba712cb590413e95d68334c29a1d18f0c9db84/ss6.jpg?raw=true" width="30%" style="margin: 10px;" /> 
+ </p>
 
 🛠 Tech Stack
 
